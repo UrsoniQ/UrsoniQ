@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT, music, reading
 - 🌱 I’m currently learning HTML, CSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ursoniqq@gmail.com
 
 <!---
 UrsoniQ/UrsoniQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
