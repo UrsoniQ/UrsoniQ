@@ -1,6 +1,6 @@
 - 👋 Hi, I’m UrsoniQ
 - 👀 I’m interested in IT, music, reading
-- 🌱 I’m currently learning HTML, CSS, C++
+- 🌱 I’m currently learning PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ursoniqq@gmail.com
 
